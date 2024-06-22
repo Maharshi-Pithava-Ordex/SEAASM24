@@ -34,8 +34,16 @@ body {
     color: $blue;
 }
 
+.lightbluetext {
+    color: $lightblue;
+}
+
 .greentext {
     color: $green;
+}
+
+.customshadow {
+    box-shadow: 0px 5px 20px rgba(176, 195, 211, 0.5);
 }
 
 .btn-primary {
@@ -65,3 +73,27 @@ body {
         color: $green;
     }
 }
+
+.table-responsive .border-primary {
+    border-color: $lightblue !important;
+}
+
+.table-responsive .table th,
+.table-responsive .table td {
+    background: transparent !important;
+}
+
+.table-responsive .table th {
+    color: #fff;
+    background-color: $blue !important;
+    font-family: headingtext;
+    font-weight: 600;
+    text-align: center;
+}
+
+.table-responsive .table td {
+    color: $blue;
+    font-family: poppins;
+}
+
+@import "navbar";

@@ -1,0 +1,19 @@
+.nav-link {
+    transition: 0.3s all ease-in;
+    border-bottom: 1px solid transparent;
+    font-size: 15px;
+    color: $blue;
+
+    &:hover {
+        color: $green;
+        border-color: $lightblue;
+    }
+}
+
+.navbar-toggler {
+    color: $blue;
+
+    span {
+        color: $blue;
+    }
+}
