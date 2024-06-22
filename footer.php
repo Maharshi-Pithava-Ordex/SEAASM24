@@ -1,8 +1,8 @@
 <?php ?>
 <div class="container-fluid">
     <div class="row justify-content-center p-2 px-md-5 py-4">
-        <div class="col-md-6">
-            <!-- <div class="row">
+        <!-- <div class="col-md-6">
+            <div class="row">
                 <div class="col-md-3 d-flex justify-content-md-center">
                     <img src="imgs/sacretarial.png" height="120" alt="sacretarial">
                 </div>
@@ -24,8 +24,8 @@
                             9099331357</a>
                     </div>
                 </div>
-            </div> -->
-        </div>
+            </div> 
+        </div> -->
         <div class="col-md-6 mt-5 mt-md-0">
             <div class="row">
                 <div class="col-md-3 d-flex justify-content-md-center">

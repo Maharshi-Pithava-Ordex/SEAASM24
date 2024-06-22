@@ -1,5 +1,15 @@
 @import "variables";
 
+@font-face {
+    font-family: headingtext;
+    src: url(../fonts/JosefinSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: cursive;
+    src: url(../fonts/MrDafoe-Regular.ttf);
+}
+
 ::-webkit-scrollbar {
     width: 3px !important;
     height: 3px !important;
@@ -28,6 +38,7 @@
 
 body {
     background-color: $bg;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .bluetext {
@@ -40,6 +51,16 @@ body {
 
 .greentext {
     color: $green;
+}
+
+.headingtext {
+    font-family: headingtext;
+}
+
+.cursivetext {
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
 }
 
 .customshadow {
@@ -66,7 +87,6 @@ body {
 
 .links {
     color: $blue;
-    text-underline-offset: 0.5rem;
     transition: 0.3s all ease;
 
     &:hover {
@@ -74,26 +94,59 @@ body {
     }
 }
 
-.table-responsive .border-primary {
-    border-color: $lightblue !important;
+// home page table
+.table-responsive {
+    .border-primary {
+        border-color: $lightblue !important;
+    }
+
+    .table {
+
+        th,
+        td {
+            background: transparent !important;
+        }
+
+        th {
+            color: $white;
+            background-color: $blue !important;
+            font-family: headingtext;
+            font-weight: 600;
+            text-align: center;
+        }
+
+        td {
+            color: $lightblue;
+        }
+    }
 }
 
-.table-responsive .table th,
-.table-responsive .table td {
-    background: transparent !important;
+
+#breadcrumb_container {
+    background: linear-gradient(rgba(11, 11, 11, .6), rgba(11, 11, 11, .6)), url('https://t4.ftcdn.net/jpg/03/32/57/51/360_F_332575182_45ZsbUqp7HiEMxXTkRyJkBJnVL0MsrEm.webp');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40vh;
+
+    .row {
+        height: -webkit-fill-available;
+
+        h1 {
+            font-size: 5rem;
+        }
+    }
 }
 
-.table-responsive .table th {
-    color: #fff;
-    background-color: $blue !important;
-    font-family: headingtext;
-    font-weight: 600;
-    text-align: center;
-}
-
-.table-responsive .table td {
-    color: $blue;
-    font-family: poppins;
+@media only screen and (max-width:450px) {
+    #breadcrumb_container {
+        .row {
+            h1 {
+                font-size: 3rem;
+            }
+        }
+    }
 }
 
 @import "navbar";
+@import "contact";

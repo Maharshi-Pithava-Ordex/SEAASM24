@@ -53,7 +53,8 @@
                     <h4 class="mb-3 bluetext">Welcome to<br>
                         SEAASM 2024, INDORE</h4>
                     <div class="welcomeMsg">
-                        <p class="lightbluetext">Dear Esteemed Colleagues and Industry Leaders, 'Kem Cho' from the
+                        <p class="lightbluetext cursivetext">Dear Esteemed Colleagues and Industry Leaders, 'Kem Cho'
+                            from the
                             vibrant
                             city of Ahmedabad,</p>
                         <p class="lightbluetext text-justify">It is with great pleasure that we, on behalf of the

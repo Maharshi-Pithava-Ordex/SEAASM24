@@ -1,3 +1,11 @@
+@font-face {
+  font-family: headingtext;
+  src: url(../fonts/JosefinSans-Regular.ttf);
+}
+@font-face {
+  font-family: cursive;
+  src: url(../fonts/MrDafoe-Regular.ttf);
+}
 ::-webkit-scrollbar {
   width: 3px !important;
   height: 3px !important;
@@ -31,6 +39,7 @@
 
 body {
   background-color: #ededed;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .bluetext {
@@ -43,6 +52,16 @@ body {
 
 .greentext {
   color: #6cbd45;
+}
+
+.headingtext {
+  font-family: headingtext;
+}
+
+.cursivetext {
+  font-family: cursive;
+  font-style: italic;
+  font-weight: bold;
 }
 
 .customshadow {
@@ -67,7 +86,6 @@ body {
 
 .links {
   color: #0e4f8a;
-  text-underline-offset: 0.5rem;
   transition: 0.3s all ease;
 }
 .links:hover {
@@ -77,12 +95,10 @@ body {
 .table-responsive .border-primary {
   border-color: #136ab8 !important;
 }
-
 .table-responsive .table th,
 .table-responsive .table td {
   background: transparent !important;
 }
-
 .table-responsive .table th {
   color: #fff;
   background-color: #0e4f8a !important;
@@ -90,16 +106,32 @@ body {
   font-weight: 600;
   text-align: center;
 }
-
 .table-responsive .table td {
-  color: #0e4f8a;
-  font-family: poppins;
+  color: #136ab8;
 }
 
+#breadcrumb_container {
+  background: linear-gradient(rgba(11, 11, 11, 0.6), rgba(11, 11, 11, 0.6)), url("https://t4.ftcdn.net/jpg/03/32/57/51/360_F_332575182_45ZsbUqp7HiEMxXTkRyJkBJnVL0MsrEm.webp");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 40vh;
+}
+#breadcrumb_container .row {
+  height: -webkit-fill-available;
+}
+#breadcrumb_container .row h1 {
+  font-size: 5rem;
+}
+
+@media only screen and (max-width: 450px) {
+  #breadcrumb_container .row h1 {
+    font-size: 3rem;
+  }
+}
 .nav-link {
   transition: 0.3s all ease-in;
   border-bottom: 1px solid transparent;
-  font-size: 15px;
   color: #0e4f8a;
 }
 .nav-link:hover {
@@ -112,4 +144,23 @@ body {
 }
 .navbar-toggler span {
   color: #0e4f8a;
+}
+
+input,
+textarea {
+  border: 0 !important;
+  border-bottom: 1px solid #0e4f8a !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #6cbd45 !important;
+  box-shadow: none !important;
+}
+
+label::after,
+label::after {
+  background: transparent !important;
 }/*# sourceMappingURL=style.css.map */
