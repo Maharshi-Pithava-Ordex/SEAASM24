@@ -44,39 +44,48 @@
         </div>
     </div>
 
-    <div class="container">
-        <!-- welcome message -->
-        <div class="row justify-content-center my-5">
-            <div class="col-12">
-                <h1 class="text-center fw-bold bluetext mb-3 headingtext">Welcome Message</h1>
-                <div class="col-12 card p-3 border-0 customshadow">
-                    <h4 class="mb-3 bluetext">Dear Esteemed Colleagues and Delegates,</h4>
-                    <div class="welcomeMsg">
-                        <p class="lightbluetext cursivetext">Greetings from SEASSM!</p>
-                        <p class="lightbluetext">We are delighted to welcome you to the SEASSM 2024 Annual Conference,
-                            taking place in the vibrant and historic city of Indore.</p>
-                        <p class="lightbluetext">This year, we gather to share our latest research, innovations, and
-                            developments
-                            in the field of Sleep Medicine.
-                        </p>
-                        <p class="lightbluetext">Indore, known for its rich cultural heritage and modern infrastructure,
-                            provides
-                            an ideal backdrop for our conference.</p>
-                        <a href="aboutus.php" class="links">know more...</a>
-                        <h5 class="bluetext mt-3">Warm regards,<br>
-                            The SEASSM 2024 Organizing Committee</h5>
+    <div class="container-fluid" id="welcomemsg">
+        <div class="container pt-5">
+            <!-- welcome message -->
+            <div class="row justify-content-center mt-5">
+                <div class="col-12">
+                    <h1 class="text-center fw-bold bluetext mb-3 headingtext">Welcome Message</h1>
+                    <div class="col-12 p-3 border-0">
+                        <h4 class="mb-3 bluetext fw-bold">Dear Esteemed Colleagues and Delegates,</h4>
+                        <div class="welcomeMsg">
+                            <p class="lightbluetext cursivetext">Greetings from SEASSM!</p>
+                            <p class="lightbluetext">We are delighted to welcome you to the SEASSM 2024 Annual
+                                Conference,
+                                taking place in the vibrant and historic city of Indore.</p>
+                            <p class="lightbluetext">This year, we gather to share our latest research, innovations, and
+                                developments
+                                in the field of Sleep Medicine.
+                            </p>
+                            <p class="lightbluetext">Indore, known for its rich cultural heritage and modern
+                                infrastructure,
+                                provides
+                                an ideal backdrop for our conference.</p>
+                            <a href="aboutus.php" class="links">know more...</a>
+                            <h5 class="bluetext mt-3">Warm regards,<br>
+                                The SEASSM 2024 Organizing Committee</h5>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+    <div class="container-fluid px-0">
+        <img src="imgs/wave.png" id="waveimg">
+    </div>
 
+    <div class="container">
         <!-- tables -->
         <div class="row justify-content-center my-5">
             <div class="col-12">
                 <h1 class="bluetext fw-bold text-center mb-3 headingtext">Registration Fees</h1>
                 <!-- large device table -->
                 <div class="row justify-content-center d-none d-md-block">
-                    <div class="col-12 card border-0 customshadow customcard p-3">
+                    <div class="col-12 border-0 p-3">
                         <div class="table-responsive">
                             <table class="table table-bordered border-primary text-nowrap mb-0">
                                 <thead>
@@ -125,14 +134,14 @@
                     <!-- Registration button -->
                     <div class="col-12 my-5">
                         <div class="d-flex flex-column flex-sm-row justify-content-center align-items-center">
-                            <a href="#" target="_blank" class="btn btn-primary mx-3"><i
+                            <a href="#" target="_blank" class="btn btn-primary mx-3 px-5 py-4"><i
                                     class="fa-solid fa-user-plus me-2"></i>Register Now</a>
                         </div>
                     </div>
                 </div>
                 <!-- small device table -->
                 <div class="row justify-content-center d-block d-md-none px-3">
-                    <div class="col-12 card border-0 customshadow customcard p-3">
+                    <div class="col-12 border-0 p-3">
                         <div class="mb-4">
                             <h2 class="fw-bold bluetext headingtext text-center">Members</h2>
                             <div class="table-responsive">

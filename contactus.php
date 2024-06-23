@@ -35,9 +35,55 @@
             <div class="col-12">
                 <h1 class="bluetext headingtext fw-bold text-center mb-4">Contact Us</h1>
             </div>
-            <!-- form -->
+            <!-- event organizer details -->
             <div class="col-lg-5 col-md-6">
-                <div class="card h-100 border-0 customshadow p-3 p-sm-4 customcard justify-content-center">
+                <div class="card border-0 customshadow customcard p-4">
+                    <img src="https://gujaratheart.com/wp-content/uploads/2023/07/Rx-Events-Logo.png" height="100"
+                        width="100" class="mb-2" alt="">
+                    <h3 class="bluetext fw-bold headingtext">Event Organizer</h3>
+                    <div class="lightbluetext">
+                        <p class="mb-1">Rx Events Pvt. Ltd</p>
+                        <p class="mb-1">401, Shyamak Complex,</p>
+                        <p class="mb-1">Opp. Sahjanand College, Ambawadi,</p>
+                        <p class="mb-1">Ahmedabad - 380015</p>
+                    </div>
+                    <div class="mt-4 d-flex flex-column">
+                        <a href="mailto:contact@rxevents.co.in" class="links text-decoration-none mb-2"><i
+                                class="fa-regular fa-envelope fa-fw"></i>
+                            contact@rxevents.co.in</a>
+                        <a href="tel:9099331371" class="links text-decoration-none mb-2"><i
+                                class="fa-solid fa-phone fa-fw"></i>
+                            +91 9099331371</a>
+                        <a href="https://rxevents.co.in/" class="links text-decoration-none mb-2"><i
+                                class="fa-solid fa-globe fa-fw"></i> www.rxevents.co.in</a>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                            data-bs-target="#formModal">Get in touch</button>
+                    </div>
+                </div>
+            </div>
+            <!-- map -->
+            <div class="col-lg-5 col-md-6 mt-5 mt-md-0">
+                <div class="card border-0 customshadow customcard p-4 d-flex justify-content-center">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.977022178365!2d72.54231167509178!3d23.02461587917241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e85287fc18fb3%3A0x4b44456135db26e4!2sRx%20Events!5e0!3m2!1sen!2sin!4v1719137291408!5m2!1sen!2sin"
+                        height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- contact form modal -->
+    <div class="modal fade customcard" id="formModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title bluetext headingtext" id="exampleModalLabel">Get In Touch</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <!-- form -->
                     <form>
                         <div class="row g-4">
                             <div class="col-md-6">
@@ -80,31 +126,6 @@
                             </div>
                         </div>
                     </form>
-                </div>
-            </div>
-            <!-- event organizer details -->
-            <div class="col-lg-5 col-md-6 mt-5 mt-md-0">
-                <div class="card border-0 customshadow customcard p-4">
-                    <img src="https://gujaratheart.com/wp-content/uploads/2023/07/Rx-Events-Logo.png" height="100"
-                        width="100" class="mb-2" alt="">
-                    <h3 class="bluetext fw-bold headingtext">Event Organizer</h3>
-                    <div class="lightbluetext">
-                        <p class="mb-1">Rx Events Pvt. Ltd</p>
-                        <p class="mb-1">401, Shyamak Complex,</p>
-                        <p class="mb-1">Opp. Sahjanand College, Ambawadi,</p>
-                        <p class="mb-1">Ahmedabad - 380015</p>
-                    </div>
-                    <div class="mt-4 d-flex flex-column">
-                        <a href="mailto:contact@rxevents.co.in" class="links text-decoration-none mb-2"><i
-                                class="fa-regular fa-envelope fa-fw"></i>
-                            contact@rxevents.co.in</a>
-                        <a href="tel:9099331371" class="links text-decoration-none mb-2"><i
-                                class="fa-solid fa-phone fa-fw"></i>
-                            +91 9099331371</a>
-                        <a href="https://rxevents.co.in/" class="links text-decoration-none mb-2"><i
-                                class="fa-solid fa-globe fa-fw"></i> www.rxevents.co.in</a>
-                        <a href="https://maps.app.goo.gl/85E4rqp2uKo6dNDb6" class="links" target="_blank">View Map</a>
-                    </div>
                 </div>
             </div>
         </div>

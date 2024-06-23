@@ -30,44 +30,69 @@
         </div>
     </div>
 
+    <div class="container-fluid my-5" id="hostCity">
+        <h1 class="headingtext text-white text-center">Indore</h1>
+        <div class="container">
+            <div class="row text-white">
+                <div class="col-lg-6 p-3 p-sm-5 mt-5 mt-lg-0">
+                    <p>
+                        <span class="fw-bold cursivetext">Indore</span>, often referred to as the <span
+                            class="fw-bold cursivetext">"Commercial Capital of Madhya
+                            Pradesh"</span>, is a vibrant and
+                        historically rich city in central India. Situated on the banks of the Saraswati and Khan rivers,
+                        Indore has a long-standing reputation for its cultural heritage, architectural marvels, and
+                        thriving economy.
+                    </p>
+                    <p>
+                        One of the city's most notable landmarks is the Rajwada Palace, a blend of Mughal and Maratha
+                        architectural styles. Built by the Holkar dynasty rulers, it stands as a testament to Indore's
+                        royal past and serves as a popular tourist attraction. Another architectural gem is the Lal Bagh
+                        Palace, renowned for its European-influenced design and sprawling gardens, offering a glimpse
+                        into the opulent lifestyle of the Holkars.
+                    </p>
+                    <p>
+                        Indore is also famous for its culinary delights, especially its street food culture. The city is
+                        synonymous with mouth-watering snacks like poha-jalebi, bhutte ka kees, and the famous Indori
+                        namkeens. The bustling Sarafa Bazaar transforms into a food lover's paradise at night, with
+                        vendors offering a dazzling array of local delicacies that attract both locals and tourists
+                        alike.
+                    </p>
+                </div>
+                <div class="col-lg-6 d-flex justify-content-center align-items-center">
+                    <img src="https://www.india.com/wp-content/uploads/2018/10/Rajwada-Indore.jpg"
+                        class="img-fluid rounded" alt="">
+                </div>
+            </div>
+            <div class="row text-white">
+                <div class="col-lg-6 d-flex justify-content-center align-items-center">
+                    <img src="https://images.snapwi.re/8ac1/5c87e229aa3058c83a4a0e61.w800.jpg" class="img-fluid rounded"
+                        alt="">
+                </div>
+                <div class="col-lg-6 p-3 p-sm-5 mt-5 mt-lg-0">
+                    <p>
+                        In recent years, Indore has emerged as a prominent educational and commercial hub. It houses
+                        premier educational institutions like the Indian Institute of Management (IIM) Indore and Devi
+                        Ahilya Vishwavidyalaya, contributing significantly to the city's intellectual capital. The
+                        city's strategic location, excellent connectivity, and proactive governance have also made it a
+                        preferred destination for businesses, resulting in rapid industrial growth and development.
+                    </p>
+                    <p>
+                        Overall, Indore strikes a unique balance between its glorious past and dynamic present, making
+                        it
+                        a city that seamlessly blends tradition with modernity. Whether exploring its historical
+                        landmarks, savoring its culinary delights, or experiencing its vibrant culture, Indore offers
+                        visitors a memorable and enriching experience.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- about city -->
     <div class="container">
         <div class="row justify-content-center my-5 mx-2">
-            <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="https://www.mptourism.com/images/point-of-interest/indore-poi5.jpg" class="img-fluid rounded"
-                    alt="">
-            </div>
-            <div class="col-lg-6 card border-0 customshadow customcard p-3 p-sm-5 mt-5 mt-lg-0">
-                <h2 class="mb-4 fw-bold headingtext bluetext">World's First Heritage City - <span
-                        class="greentext">Ahmedabad</span></h2>
-                <p class="lightbluetext">Ahmedabad, located in the western Indian state of Gujarat, is a city
-                    rich in
-                    history and
-                    culture. It
-                    is renowned for its
-                    architectural heritage, which blends Hindu, Islamic, and colonial influences. In 2017, UNESCO
-                    declared the city's
-                    historic center, known as the "walled city," as a World Heritage City, recognizing its significance
-                    and preservation of
-                    its cultural heritage.</p>
 
-                <p class="lightbluetext">A city steeped in history and culture, offers a mesmerizing blend of
-                    tradition and
-                    modernity. As one of
-                    India's oldest cities, its heritage can be felt in every corner, from the intricately carved temples
-                    of the Old City to
-                    the serene Sabarmati Ashram, where Mahatma Gandhi once resided.</p>
 
-                <p class="lightbluetext">In modern Ahmedabad, soaring skyscrapers and bustling markets stand
-                    alongside
-                    centuries-old
-                    monuments, creating a unique
-                    tapestry of old-world charm and contemporary dynamism. Whether wandering through the narrow lanes of
-                    the UNESCO-listed
-                    Pols or exploring the modern architecture of the Gujarat International Finance Tec-City (GIFT City),
-                    Ahmedabad
-                    captivates with its rich heritage, cultural vibrancy, and forward-looking spirit.</p>
-            </div>
         </div>
     </div>
 

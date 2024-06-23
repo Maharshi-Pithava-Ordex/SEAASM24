@@ -20,16 +20,17 @@
         </div>
     </div>
 </nav>
-<nav class="navbar navbar-expand-xl py-0">
+<nav class="navbar navbar-expand-xl">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#"><img src="imgs/logo.png" class="py-0" height="80" alt="SEAASM24"></a>
+        <a class="navbar-brand" href="index.php"><img src="imgs/logoSEAASM.png" class="py-0" height="80"
+                alt="SEAASM24"></a>
         <button class="navbar-toggler order-1 order-xl-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
             aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <!-- <a class="navbar-brand order-0 order-xl-1 me-auto me-xl-0" href="#"><img src="imgs/sacretarial.png" class="py-0"
-                height="80" alt="Logo"></a> -->
+        <a class="navbar-brand order-0 order-xl-1 me-auto me-xl-0" href="index.php"><img src="imgs/wsslogo.png"
+                class="py-0" height="80" alt="Logo"></a>
         <div class="collapse navbar-collapse order-1 order-xl-0" id="navbarSupportedContent">
             <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
                 <li class="nav-item mx-lg-2">
