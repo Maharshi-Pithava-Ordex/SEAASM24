@@ -13,11 +13,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
         integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <script>
+    <!-- <script>
     $(document).ready(function() {
         $("#abstractModel").modal('show');
     });
-    </script>
+    </script> -->
 </head>
 
 <body>
@@ -50,34 +50,21 @@
             <div class="col-12">
                 <h1 class="text-center fw-bold bluetext mb-3 headingtext">Welcome Message</h1>
                 <div class="col-12 card p-3 border-0 customshadow">
-                    <h4 class="mb-3 bluetext">Welcome to<br>
-                        SEAASM 2024, INDORE</h4>
+                    <h4 class="mb-3 bluetext">Dear Esteemed Colleagues and Delegates,</h4>
                     <div class="welcomeMsg">
-                        <p class="lightbluetext cursivetext">Dear Esteemed Colleagues and Industry Leaders, 'Kem Cho'
-                            from the
-                            vibrant
-                            city of Ahmedabad,</p>
-                        <p class="lightbluetext text-justify">It is with great pleasure that we, on behalf of the
-                            organising team, extend a warm invita on to
-                            th
-                            you for the eagerly awaited 34 Annual Conference of Indian Society of Organ Transplant,2024.
-                            This event, set against the historic backdrop of Ahmedabad, a UNESCO World Heritage City,
-                            promises an unparalleled convergence of leading experts, researchers, and industry
-                            professionals in the field of organ transplanta on. The city's rich heritage, combined with
-                            its
-                            dynamic modernity, offers the perfect se ng to inspire innova on and collabora on in the
-                            pursuit of enhancing transplant pa ent care
+                        <p class="lightbluetext cursivetext">Greetings from SEASSM!</p>
+                        <p class="lightbluetext">We are delighted to welcome you to the SEASSM 2024 Annual Conference,
+                            taking place in the vibrant and historic city of Indore.</p>
+                        <p class="lightbluetext">This year, we gather to share our latest research, innovations, and
+                            developments
+                            in the field of Sleep Medicine.
                         </p>
-                        <p class="lightbluetext text-justify">The ISOT 2024 conference is poised to be a milestone
-                            event,
-                            featuring a rich scien fic program,
-                            inspiring keynote addresses, thought-provoking panel discussions, and hands-on workshops.
-                            As Ahmedabad prides itself on its blend of cultural legacy and academic excellence, the
-                            conference will provide a unique pla orm for a endees to share pioneering advancements,
-                            present research findings, and discuss the latest trends in organ transplanta on.</p>
+                        <p class="lightbluetext">Indore, known for its rich cultural heritage and modern infrastructure,
+                            provides
+                            an ideal backdrop for our conference.</p>
                         <a href="aboutus.php" class="links">know more...</a>
                         <h5 class="bluetext mt-3">Warm regards,<br>
-                            The Organizing Committee</h5>
+                            The SEASSM 2024 Organizing Committee</h5>
                     </div>
                 </div>
             </div>

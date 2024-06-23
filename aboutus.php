@@ -36,36 +36,31 @@
             <div class="col-12">
                 <h1 class="text-center fw-bold bluetext mb-3 headingtext">Welcome Message</h1>
                 <div class="col-12 card p-3 border-0 customshadow customcard">
-                    <h4 class="mb-3 bluetext">Welcome to<br>
-                        ISOT 2024, AHMEDABAD</h4>
+                    <h4 class="mb-3 bluetext">Dear Esteemed Colleagues and Delegates,</h4>
                     <div class="welcomeMsg">
-                        <p class="lightbluetext cursivetext">Dear Esteemed Colleagues and Industry Leaders, 'Kem Cho'
-                            from
-                            the vibrant
-                            city of Ahmedabad,</p>
-                        <p class="lightbluetext">It is with great pleasure that we, on behalf of the
-                            organising team, extend a warm invita on to
-                            th
-                            you for the eagerly awaited 34 Annual Conference of Indian Society of Organ Transplant,2024.
-                            This event, set against the historic backdrop of Ahmedabad, a UNESCO World Heritage City,
-                            promises an unparalleled convergence of leading experts, researchers, and industry
-                            professionals in the field of organ transplanta on. The city's rich heritage, combined with
-                            its
-                            dynamic modernity, offers the perfect se ng to inspire innova on and collabora on in the
-                            pursuit of enhancing transplant pa ent care
+                        <p class="lightbluetext cursivetext">Greetings from SEASSM!</p>
+                        <p class="lightbluetext">We are delighted to welcome you to the SEASSM 2024 Annual Conference,
+                            taking place in the vibrant and historic city of Indore.</p>
+                        <p class="lightbluetext">This year, we gather to share our latest research, innovations, and
+                            developments
+                            in the field of Sleep Medicine.
                         </p>
-                        <p class="lightbluetext">The ISOT 2024 conference is poised to be a milestone
-                            event,
-                            featuring a rich scien fic program,
-                            inspiring keynote addresses, thought-provoking panel discussions, and hands-on workshops.
-                            As Ahmedabad prides itself on its blend of cultural legacy and academic excellence, the
-                            conference will provide a unique pla orm for a endees to share pioneering advancements,
-                            present research findings, and discuss the latest trends in organ transplanta on.</p>
-                        <p class="lightbluetext">This conference represents an exceponal opportunity for your
-                            organisaon to showcase its
-                            contribuons to the organ transplantaon field. By parcipang as a sponsor or exhibitor, you
-                            can elevate your brand within this crical medical community, forge connecons with key
-                            professionals, and play a pivotal role in the spread of vital, life-saving knowledge.</p>
+                        <p class="lightbluetext">Indore, known for its rich cultural heritage and modern infrastructure,
+                            provides
+                            an ideal backdrop for our conference.</p>
+                        <p class="lightbluetext">
+                            Over the next few days, you will have the opportunity to engage with leading
+                            experts, participate in enlightening discussions, and explore cutting-edge
+                            technologies. Our diverse program includes keynote speeches, technical
+                            sessions, workshops, and networking events designed to foster collaboration
+                            and inspire new ideas.
+                        </p>
+                        <p class="lightbluetext">
+                            We hope you will find the conference both intellectually stimulating and
+                            professionally rewarding.
+                        </p>
+                        <p class="lightbluetext">Enjoy the conference and the unique charm of Indore!
+                        </p>
                         <!-- <h5 class="bluetext mt-3">Warm regards,<br>
                             The Organizing Committee</h5>
                         <div class="row">
