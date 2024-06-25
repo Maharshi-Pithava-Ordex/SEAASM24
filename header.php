@@ -1,6 +1,6 @@
 <?php ?>
 <nav>
-    <div class="container-fluid customcard border-bottom">
+    <div class="container-fluid customcard border-bottom rounded-0">
         <div class="container">
             <div class="row py-3">
                 <div class="col-sm-5 d-flex justify-content-center justify-content-sm-start">

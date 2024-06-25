@@ -37,50 +37,55 @@
                 <div class="col-12">
                     <h1 class="text-center fw-bold bluetext mb-3 headingtext">Welcome Message</h1>
                     <div class="col-12 p-3 border-0">
-                        <h4 class="mb-3 bluetext">Dear Esteemed Colleagues and Delegates,</h4>
+                        <h4 class="mb-3 bluetext">Dear Friends,</h4>
                         <div class="welcomeMsg">
                             <p class="lightbluetext cursivetext">Greetings from SEASSM!</p>
-                            <p class="lightbluetext">We are delighted to welcome you to the SEASSM 2024 Annual
-                                Conference,
-                                taking place in the vibrant and historic city of Indore.</p>
-                            <p class="lightbluetext">This year, we gather to share our latest research, innovations, and
-                                developments
-                                in the field of Sleep Medicine.
+                            <p class="lightbluetext">As you are aware, the South East Asian Society for Sleep Medicine
+                                (SEASSM) is
+                                an International Academic Organization Promoting Sleep Medicine Practices
+                                in India and around the World.
+                                .</p>
+                            <p class="lightbluetext">This Time the Society is Organizing its <span
+                                    class="fw-bold">6<sup>th</sup>
+                                    International
+                                    conference</span> on the
+                                <span class="fw-bold">5<sup>th</sup> & 6<sup>th</sup> October 2024 at Indore.</span>
                             </p>
-                            <p class="lightbluetext">Indore, known for its rich cultural heritage and modern
-                                infrastructure,
-                                provides
-                                an ideal backdrop for our conference.</p>
+                            <p class="lightbluetext">The Conference Will Witness Lectures by Highly Acclaimed National &
+                                International Faculty in the Field, with Several Workshops Uniquely Designed
+                                for Training Practitioners & Post Graduates in the Specialty of Pulmonology,
+                                Internal Medicine, Cardiology, Neurology, ENT Surgical Specialists, Dentistry.</p>
                             <p class="lightbluetext">
-                                Over the next few days, you will have the opportunity to engage with leading
-                                experts, participate in enlightening discussions, and explore cutting-edge
-                                technologies. Our diverse program includes keynote speeches, technical
-                                sessions, workshops, and networking events designed to foster collaboration
-                                and inspire new ideas.
+                                There is more than 20 Hours of Academic Content on Offering during the
+                                2 Days Affair.
                             </p>
                             <p class="lightbluetext">
-                                We hope you will find the conference both intellectually stimulating and
-                                professionally rewarding.
+                                While Indore is the Commercial & Academic Hub of Central India and a Trend
+                                Setter of Sorts, hence it becomes a Logical Choice for us to Re-Launch the
+                                SEASSM Annual Conference in the Post Covid Era.
                             </p>
-                            <p class="lightbluetext">Enjoy the conference and the unique charm of Indore!
-                            </p>
+                            <p class="lightbluetext">We Look forward for a Well-Attended, Relevant & Mutually
+                                Benefitting
+                                Academic Participation from all Quarters with the Good Wishes & Blessings of
+                                our Seniors, Mentors, Colleagues, Parents & Lord Khajrana Ganesha.</p>
                             <h5 class="bluetext mt-3">Warm regards,<br>
-                                The Organizing Committee</h5>
+                                Organizing Secretary
+                            </h5>
                             <div class="row">
                                 <div class="col-sm-6 col-md-4 col-lg-3 mt-3">
-                                    <div class="d-flex justify-content-center">
+                                    <!-- <div class="d-flex justify-content-center">
                                         <img src="imgs/doctor3.png" class="mb-3" width="170" alt="">
-                                    </div>
-                                    <h5 class="bluetext text-center fw-bold">Dr. Vivek Kute</h5>
-                                    <p class="greentext text-center">Organizing Secretary</p>
+                                    </div> -->
+                                    <h5 class="bluetext fw-bold">Prof. Dr Ravi A. Dosi</h5>
+                                    <p class="greentext fw-bold">SEASSM 2024</p>
                                 </div>
-                                <div class="col-sm-6 col-md-4 col-lg-3 mt-3">
+                                <!-- <div class="col-sm-6 col-md-4 col-lg-3 mt-3">
                                     <div class="d-flex justify-content-center">
                                         <img src="imgs/Jigar_Shrimali.png" class="mb-3" width="170" alt="">
                                     </div>
                                     <h5 class="bluetext text-center fw-bold">Dr. Jigar Shrimali</h5>
                                     <p class="greentext text-center">Organizing Secretary</p>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -88,9 +93,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid px-0">
-        <img src="imgs/wave.png" id="waveimg">
-    </div>
+    <div class="container-fluid" id="waveimg"></div>
 
     <!-- footer -->
     <?php 

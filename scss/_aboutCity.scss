@@ -20,18 +20,18 @@
     }
 
     &:after {
-        content: '';
-        position: absolute;
-        left: 0;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        background-image: url(../imgs/indoreBG.jpg);
-        background-position: center center;
-        background-attachment: fixed;
-        background-repeat: no-repeat;
-        background-size: cover;
-        z-index: -1;
-    }
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(../imgs/indoreBG.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
 
 }

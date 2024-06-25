@@ -44,6 +44,18 @@
         </div>
     </div>
 
+    <div class="container-fluid" id="heroSection">
+        <div class="container">
+            <div class="row justify-content-center align-items-center">
+                <div class="col-12">
+                    <div>
+                        <img src="imgs/mainlogo.png" alt="" id="mainlogo">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="container-fluid" id="welcomemsg">
         <div class="container pt-5">
             <!-- welcome message -->
@@ -51,20 +63,24 @@
                 <div class="col-12">
                     <h1 class="text-center fw-bold bluetext mb-3 headingtext">Welcome Message</h1>
                     <div class="col-12 p-3 border-0">
-                        <h4 class="mb-3 bluetext fw-bold">Dear Esteemed Colleagues and Delegates,</h4>
+                        <h4 class="mb-3 bluetext fw-bold">Dear Friends,</h4>
                         <div class="welcomeMsg">
                             <p class="lightbluetext cursivetext">Greetings from SEASSM!</p>
-                            <p class="lightbluetext">We are delighted to welcome you to the SEASSM 2024 Annual
-                                Conference,
-                                taking place in the vibrant and historic city of Indore.</p>
-                            <p class="lightbluetext">This year, we gather to share our latest research, innovations, and
-                                developments
-                                in the field of Sleep Medicine.
+                            <p class="lightbluetext">As you are aware, the South East Asian Society for Sleep Medicine
+                                (SEASSM) is
+                                an International Academic Organization Promoting Sleep Medicine Practices
+                                in India and around the World.
+                                .</p>
+                            <p class="lightbluetext">This Time the Society is Organizing its <span
+                                    class="fw-bold">6<sup>th</sup>
+                                    International
+                                    conference</span> on the
+                                <span class="fw-bold">5<sup>th</sup> & 6<sup>th</sup> October 2024 at Indore.</span>
                             </p>
-                            <p class="lightbluetext">Indore, known for its rich cultural heritage and modern
-                                infrastructure,
-                                provides
-                                an ideal backdrop for our conference.</p>
+                            <p class="lightbluetext">The Conference Will Witness Lectures by Highly Acclaimed National &
+                                International Faculty in the Field, with Several Workshops Uniquely Designed
+                                for Training Practitioners & Post Graduates in the Specialty of Pulmonology,
+                                Internal Medicine, Cardiology, Neurology, ENT Surgical Specialists, Dentistry.</p>
                             <a href="aboutus.php" class="links">know more...</a>
                             <h5 class="bluetext mt-3">Warm regards,<br>
                                 The SEASSM 2024 Organizing Committee</h5>
@@ -74,9 +90,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid px-0">
-        <img src="imgs/wave.png" id="waveimg">
-    </div>
+    <div class="container-fluid" id="waveimg"></div>
 
     <div class="container">
         <!-- tables -->

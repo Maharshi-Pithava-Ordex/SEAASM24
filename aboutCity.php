@@ -30,7 +30,7 @@
         </div>
     </div>
 
-    <div class="container-fluid my-5" id="hostCity">
+    <div class="container-fluid mb-5" id="hostCity">
         <h1 class="headingtext text-white text-center">Indore</h1>
         <div class="container">
             <div class="row text-white">

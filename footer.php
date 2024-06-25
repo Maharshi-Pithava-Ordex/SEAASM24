@@ -1,31 +1,31 @@
 <?php ?>
-<div class="container-fluid">
+<div class="container-fluid customcard rounded-0">
     <div class="row justify-content-center p-2 px-md-5 py-4">
-        <!-- <div class="col-md-6">
+        <div class="col-md-6">
             <div class="row">
                 <div class="col-md-3 d-flex justify-content-md-center">
-                    <img src="imgs/sacretarial.png" height="120" alt="sacretarial">
+                    <img src="imgs/logoSEAASM.png" height="80" alt="sacretarial">
                 </div>
                 <div class="col-md-9">
-                    <h3 class="redtext fw-bold headingtext">Secretariat</h3>
-                    <h5 class="redtext headingtext">Dr Jigar Shrimali</h5>
-                    <div class="purpletext">
-                        <p class="mb-1">Renus Kidney Hospital</p>
-                        <p class="mb-1">505-502, Golden Icon,</p>
-                        <p class="mb-1">Opposite Medilink Hospital, Near Shivranjani Flyover,</p>
-                        <p class="mb-1">132 Feet Ring Rd, Satellite, Ahmedabad, Gujarat 380015</p>
+                    <h3 class="bluetext fw-bold headingtext">Conference Secretariat</h3>
+                    <h5 class="bluetext headingtext">Dr. Ravi Dosi</h5>
+                    <div class="lightbluetext">
+                        <p class="mb-1">Dosi Bhawan </p>
+                        <p class="mb-1">124 ,tilak nagar main</p>
+                        <p class="mb-1">Post office road</p>
+                        <p class="mb-1">Indore 452018</p>
                     </div>
-                    <div class="mt-4 d-flex flex-column">
+                    <!-- <div class="mt-4 d-flex flex-column">
                         <a href="mailto:dr.jdshrimali@gmail.com" class="links text-decoration-none mb-2"><i
                                 class="fa-regular fa-envelope"></i>
                             dr.jdshrimali@gmail.com</a>
                         <a href="tel:9099331357" class="links text-decoration-none mb-2"><i
                                 class="fa-solid fa-phone"></i> +91
                             9099331357</a>
-                    </div>
+                    </div> -->
                 </div>
-            </div> 
-        </div> -->
+            </div>
+        </div>
         <div class="col-md-6 mt-5 mt-md-0">
             <div class="row">
                 <div class="col-md-3 d-flex justify-content-md-center">
@@ -52,7 +52,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 mt-2">
+        <div class="col-12 mt-2 pt-3 border-top">
             <div class="d-flex justify-content-center">
                 <a href="#" class="links text-decoration-none mx-3"><i class="fs-5 fa-brands fa-facebook fa-fw"
                         target="_blank"></i></a>

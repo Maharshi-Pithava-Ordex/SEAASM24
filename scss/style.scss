@@ -39,7 +39,7 @@
 body {
     // background-color: $bg;
     font-family: sans-serif;
-    background-image: url('https://media.istockphoto.com/id/1372488730/vector/abstract-gray-hexagon-background-vector.jpg?s=612x612&w=0&k=20&c=dCCj1ptJCVg8BW2WWNTZmZFcOyAeA5UuGDPH0aeQ5uY=');
+    background-image: url('../imgs/SEAASM-BG.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -165,8 +165,29 @@ body {
 }
 
 #waveimg {
-    width: 100vw;
-    filter: opacity(.3);
+    background: url('../imgs/wave.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 6rem 0;
+    opacity: .3;
+}
+
+#heroSection {
+    background: linear-gradient(rgba(11, 11, 11, .2), rgba(11, 11, 11, .2)), url('https://img.freepik.com/free-vector/medical-healthcare-blue-color_1017-26807.jpg?size=626&ext=jpg&ga=GA1.1.732719782.1719334933&semt=ais_user');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+
+    .container {
+        .row {
+            height: 80vh;
+        }
+    }
+
+    #mainlogo {
+        width: 100%
+    }
 }
 
 @import "navbar";
