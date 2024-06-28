@@ -30,8 +30,15 @@
         </div>
     </div>
 
+    <!-- about city -->
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="headingtext bluetext text-center aboutCityh1 mt-4">Indore</h1>
+            </div>
+        </div>
+    </div>
     <div class="container-fluid mb-5" id="hostCity">
-        <h1 class="headingtext text-white text-center">Indore</h1>
         <div class="container">
             <div class="row text-white">
                 <div class="col-lg-6 p-3 p-sm-5 mt-5 mt-lg-0">
@@ -88,11 +95,50 @@
         </div>
     </div>
 
-    <!-- about city -->
+
+    <!-- nearby places -->
     <div class="container">
-        <div class="row justify-content-center my-5 mx-2">
-
-
+        <div class="row justify-content-center my-5 mx-2 pb-5">
+            <h1 class="headingtext bluetext text-center fw-bold">Explore Indore & Nearby</h1>
+            <ul class="honeycomb pb-5">
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby1.jpg">
+                    <div class="honeycomb-cell__title">Rajwada Palace</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby2.jpg">
+                    <div class="honeycomb-cell__title">Krishna Pura Chhatri</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby3.jpg">
+                    <div class="honeycomb-cell__title">Chhatri of Malhar Row Holk</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby4.jpg">
+                    <div class="honeycomb-cell__title">Gandhi Hall</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby5.jpg">
+                    <div class="honeycomb-cell__title">Lal Bagh Palace</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby6.jpg">
+                    <div class="honeycomb-cell__title fs-4">Mahakaleshwar Ujjain</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby7.jpg">
+                    <div class="honeycomb-cell__title">Omkareshwar</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby8.jpeg">
+                    <div class="honeycomb-cell__title">Chhapan Dukan</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby9.png">
+                    <div class="honeycomb-cell__title">Sarafa Night Food Market</div>
+                </li>
+                <li class="honeycomb-cell honeycomb__placeholder"></li>
+            </ul>
         </div>
     </div>
 
@@ -103,10 +149,10 @@
     <!-- Bootstrap js -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
-    </script>
+        </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
         integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous">
-    </script>
+        </script>
     <!-- <script src="loader.js"></script> -->
 </body>
 

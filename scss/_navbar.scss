@@ -1,11 +1,21 @@
+#centerNavLinks {
+    background-color: $blue;
+
+    .nav-link {
+        color: $white;
+
+        &:hover {
+            color: $green;
+        }
+    }
+}
+
 .nav-link {
     transition: 0.3s all ease-in;
-    border-bottom: 1px solid transparent;
     color: $blue;
 
     &:hover {
         color: $green;
-        border-color: $lightblue;
     }
 }
 
