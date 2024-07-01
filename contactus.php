@@ -38,8 +38,7 @@
             <!-- event organizer details -->
             <div class="col-lg-5 col-md-6">
                 <div class="card border-0 customshadow customcard p-4">
-                    <img src="https://gujaratheart.com/wp-content/uploads/2023/07/Rx-Events-Logo.png" height="100"
-                        width="100" class="mb-2" alt="">
+                    <img src="imgs/rx.png" height="100" width="100" class="mb-2" alt="">
                     <h3 class="bluetext fw-bold headingtext">Event Organizer</h3>
                     <div class="lightbluetext">
                         <p class="mb-1">Rx Events Pvt. Ltd</p>

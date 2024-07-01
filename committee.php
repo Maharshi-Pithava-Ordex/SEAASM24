@@ -39,7 +39,8 @@
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
                                 <div class="d-flex justify-content-center">
-                                    <img src="imgs/doctor1.png" class="mb-4" alt="">
+                                    <img src="https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-855.jpg?semt=ais_user"
+                                        class="mb-4" width="200" alt="">
                                 </div>
                                 <h5 class="bluetext text-center fw-bold">Dr. Rajesh Swarnkar</h5>
                                 <p class="greentext text-center mb-0">(Nagpur)</p>
@@ -51,7 +52,8 @@
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
                                 <div class="d-flex justify-content-center">
-                                    <img src="imgs/doctor2.png" class="mb-4" width="170" alt="">
+                                    <img src="https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-855.jpg?semt=ais_user"
+                                        class="mb-4" width="200" alt="">
                                 </div>
                                 <h5 class="bluetext text-center fw-bold">Dr. Shivani Swami</h5>
                                 <p class="greentext text-center mb-0">(Jaipur)</p>
@@ -63,7 +65,8 @@
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
                                 <div class="d-flex justify-content-center">
-                                    <img src="imgs/doctor3.png" class="mb-4" width="170" alt="">
+                                    <img src="https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-855.jpg?semt=ais_user"
+                                        class="mb-4" width="200" alt="">
                                 </div>
                                 <h5 class="bluetext text-center fw-bold">Dr. Ravi Dosi</h5>
                                 <p class="greentext text-center mb-0">(Indore)</p>

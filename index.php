@@ -61,28 +61,26 @@
             <!-- welcome message -->
             <div class="row justify-content-center mt-5">
                 <div class="col-12">
-                    <h1 class="text-center fw-bold bluetext mb-3 headingtext">Welcome Message</h1>
+                    <h1 class="text-center fw-bold mb-3 headingtext text-white">Welcome Message</h1>
                     <div class="col-12 p-3 border-0">
-                        <h4 class="mb-3 bluetext fw-bold">Dear Friends,</h4>
-                        <div class="welcomeMsg">
-                            <p class="lightbluetext cursivetext">Greetings from SEASSM!</p>
-                            <p class="lightbluetext">As you are aware, the South East Asian Society for Sleep Medicine
-                                (SEASSM) is
-                                an International Academic Organization Promoting Sleep Medicine Practices
-                                in India and around the World.
-                                .</p>
-                            <p class="lightbluetext">This Time the Society is Organizing its <span
-                                    class="fw-bold">6<sup>th</sup>
+                        <h4 class="mb-3 fw-bold text-white">Dear Seniors & Colleagues,</h4>
+                        <div class="welcomeMsg text-white">
+                            <p class=" cursivetext">Greetings from SEASSM!</p>
+                            <p>As you are aware, the South East Asian Academy of Sleep Medicine (SEAASM) is
+                                an International Academic Organisation promoting sleep medicine practices in
+                                India and around the World.
+                            </p>
+                            <p>This Time the Society is Organizing its <span class="fw-bold">6<sup>th</sup>
                                     International
                                     conference</span> on the
                                 <span class="fw-bold">5<sup>th</sup> & 6<sup>th</sup> October 2024 at Indore.</span>
                             </p>
-                            <p class="lightbluetext">The Conference Will Witness Lectures by Highly Acclaimed National &
+                            <p>The Conference Will Witness Lectures by Highly Acclaimed National &
                                 International Faculty in the Field, with Several Workshops Uniquely Designed
                                 for Training Practitioners & Post Graduates in the Specialty of Pulmonology,
                                 Internal Medicine, Cardiology, Neurology, ENT Surgical Specialists, Dentistry.</p>
-                            <a href="aboutus.php" class="links">know more...</a>
-                            <h5 class="bluetext mt-3">Warm regards,<br>
+                            <a href="aboutus.php" class="links text-white">know more...</a>
+                            <h5 class="mt-3">Warm regards,<br>
                                 The SEASSM 2024 Organizing Committee</h5>
                         </div>
                     </div>
@@ -93,6 +91,53 @@
     <div class="container-fluid" id="waveimg"></div>
 
     <div class="container">
+        <!-- organizing committee -->
+        <div class="row justify-content-center my-5">
+            <div class="col-12">
+                <h1 class="bluetext fw-bold text-center mb-4 headingtext">Organizing Committee</h1>
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+                    <div class="col">
+                        <div class="card h-100 doctorimg border-0 customshadow customcard">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-center">
+                                    <img src="https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-855.jpg?semt=ais_user"
+                                        width="200" class="mb-4" alt="">
+                                </div>
+                                <h5 class="bluetext text-center fw-bold">Dr. Rajesh Swarnkar</h5>
+                                <p class="greentext text-center mb-0">(Nagpur)</p>
+                                <p class="lightbluetext text-center mb-0">President</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card h-100 doctorimg border-0 customshadow customcard">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-center">
+                                    <img src="https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-855.jpg?semt=ais_user"
+                                        class="mb-4" width="200" alt="">
+                                </div>
+                                <h5 class="bluetext text-center fw-bold">Dr. Shivani Swami</h5>
+                                <p class="greentext text-center mb-0">(Jaipur)</p>
+                                <p class="lightbluetext text-center mb-0">Secretary</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card h-100 doctorimg border-0 customshadow customcard">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-center">
+                                    <img src="https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-855.jpg?semt=ais_user"
+                                        class="mb-4" width="200" alt="">
+                                </div>
+                                <h5 class="bluetext text-center fw-bold">Dr. Ravi Dosi</h5>
+                                <p class="greentext text-center mb-0">(Indore)</p>
+                                <p class="lightbluetext text-center mb-0">Organizing Secretary</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- tables -->
         <div class="row justify-content-center my-5">
             <div class="col-12">
@@ -135,20 +180,15 @@
                                         <td>₹ 1200</td>
                                         <td>₹ 1500</td>
                                     </tr>
-                                    <!-- <tr>
-                                        <td>International Delegate</td>
-                                        <td>$ 300</td>
-                                        <td>$ 350</td>
-                                        <td>$ 370</td>
-                                    </tr> -->
                                 </tbody>
                             </table>
                         </div>
                     </div>
                     <!-- Registration button -->
-                    <div class="col-12 my-5">
+                    <div class="col-12">
                         <div class="d-flex flex-column flex-sm-row justify-content-center align-items-center">
-                            <a href="#" target="_blank" class="btn btn-primary mx-3 px-5 py-4"><i
+                            <a href="https://rxregistrations.com/SEAASM/" target="_blank"
+                                class="btn btn-primary mx-3 px-5 py-4"><i
                                     class="fa-solid fa-user-plus me-2"></i>Register Now</a>
                         </div>
                     </div>
@@ -269,50 +309,7 @@
                 </div>
             </div>
         </div>
-        <!-- organizing committee -->
-        <div class="row justify-content-center my-5">
-            <div class="col-12">
-                <h1 class="bluetext fw-bold text-center mb-4 headingtext">Organizing Committee</h1>
-                <div class="row row-cols-1 row-cols-md-3 g-4">
-                    <div class="col">
-                        <div class="card h-100 doctorimg border-0 customshadow customcard">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-center">
-                                    <img src="imgs/doctor1.png" class="mb-4" alt="">
-                                </div>
-                                <h5 class="bluetext text-center fw-bold">Dr. Rajesh Swarnkar</h5>
-                                <p class="greentext text-center mb-0">(Nagpur)</p>
-                                <p class="lightbluetext text-center mb-0">President</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100 doctorimg border-0 customshadow customcard">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-center">
-                                    <img src="imgs/doctor2.png" class="mb-4" width="170" alt="">
-                                </div>
-                                <h5 class="bluetext text-center fw-bold">Dr. Shivani Swami</h5>
-                                <p class="greentext text-center mb-0">(Jaipur)</p>
-                                <p class="lightbluetext text-center mb-0">Secretary</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100 doctorimg border-0 customshadow customcard">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-center">
-                                    <img src="imgs/doctor3.png" class="mb-4" width="170" alt="">
-                                </div>
-                                <h5 class="bluetext text-center fw-bold">Dr. Ravi Dosi</h5>
-                                <p class="greentext text-center mb-0">(Indore)</p>
-                                <p class="lightbluetext text-center mb-0">Organizing Secretary</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
     </div>
 
     <!-- footer -->

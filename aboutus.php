@@ -34,41 +34,40 @@
     <div class="container-fluid pt-5" id="welcomemsg">
         <div class="container">
             <div class="row justify-content-center mt-4">
-                <div class="col-12">
-                    <h1 class="text-center fw-bold bluetext mb-3 headingtext">Welcome Message</h1>
+                <div class="col-12 text-white">
+                    <h1 class="text-center fw-bold mb-3 headingtext">Welcome Message</h1>
                     <div class="col-12 p-3 border-0">
-                        <h4 class="mb-3 bluetext">Dear Friends,</h4>
+                        <h4 class="mb-3 ">Dear Seniors & Colleagues,</h4>
                         <div class="welcomeMsg">
-                            <p class="lightbluetext cursivetext">Greetings from SEASSM!</p>
-                            <p class="lightbluetext">As you are aware, the South East Asian Society for Sleep Medicine
+                            <p class="cursivetext">Greetings from SEASSM!</p>
+                            <p class="">As you are aware, the South East Asian Society for Sleep Medicine
                                 (SEASSM) is
                                 an International Academic Organization Promoting Sleep Medicine Practices
                                 in India and around the World.
                                 .</p>
-                            <p class="lightbluetext">This Time the Society is Organizing its <span
-                                    class="fw-bold">6<sup>th</sup>
+                            <p class="">This Time the Society is Organizing its <span class="fw-bold">6<sup>th</sup>
                                     International
                                     conference</span> on the
                                 <span class="fw-bold">5<sup>th</sup> & 6<sup>th</sup> October 2024 at Indore.</span>
                             </p>
-                            <p class="lightbluetext">The Conference Will Witness Lectures by Highly Acclaimed National &
+                            <p class="">The Conference Will Witness Lectures by Highly Acclaimed National &
                                 International Faculty in the Field, with Several Workshops Uniquely Designed
                                 for Training Practitioners & Post Graduates in the Specialty of Pulmonology,
                                 Internal Medicine, Cardiology, Neurology, ENT Surgical Specialists, Dentistry.</p>
-                            <p class="lightbluetext">
+                            <p class="">
                                 There is more than 20 Hours of Academic Content on Offering during the
                                 2 Days Affair.
                             </p>
-                            <p class="lightbluetext">
-                                While Indore is the Commercial & Academic Hub of Central India and a Trend
-                                Setter of Sorts, hence it becomes a Logical Choice for us to Re-Launch the
-                                SEASSM Annual Conference in the Post Covid Era.
+                            <p class="">
+                                Indore is an important commercial & academic hub of central India and a trend
+                                setter of sorts, hence it becomes a logical choice for us to relaunch the SEAASM
+                                annual conference in the post covid era from Indore
                             </p>
-                            <p class="lightbluetext">We Look forward for a Well-Attended, Relevant & Mutually
-                                Benefitting
-                                Academic Participation from all Quarters with the Good Wishes & Blessings of
-                                our Seniors, Mentors, Colleagues, Parents & Lord Khajrana Ganesha.</p>
-                            <h5 class="bluetext mt-3">Warm regards,<br>
+                            <p class="">We look forward for a well-attended, relevant & mutually
+                                benefitting academic
+                                participation from all quarters with the good wishes & blessings of our seniors,
+                                mentors, colleagues, parents & Lord Khajrana Ganesha.</p>
+                            <h5 class=" mt-3">Warm regards,<br>
                                 Organizing Secretary
                             </h5>
                             <div class="row">
@@ -76,16 +75,12 @@
                                     <!-- <div class="d-flex justify-content-center">
                                         <img src="imgs/doctor3.png" class="mb-3" width="170" alt="">
                                     </div> -->
-                                    <h5 class="bluetext fw-bold">Prof. Dr Ravi A. Dosi</h5>
-                                    <p class="greentext fw-bold">SEASSM 2024</p>
+                                    <h5 class="fw-bold">Prof. Dr Ravi A. Dosi</h5>
+                                    <p class="mb-0">6th ICSD</p>
+                                    <a href="mailto:ravi.dosi@gmail.com"
+                                        class="text-white mb-2">ravi.dosi@gmail.com</a><br>
+                                    <a href="tel:7869036808" class="text-white">7869036808</a>
                                 </div>
-                                <!-- <div class="col-sm-6 col-md-4 col-lg-3 mt-3">
-                                    <div class="d-flex justify-content-center">
-                                        <img src="imgs/Jigar_Shrimali.png" class="mb-3" width="170" alt="">
-                                    </div>
-                                    <h5 class="bluetext text-center fw-bold">Dr. Jigar Shrimali</h5>
-                                    <p class="greentext text-center">Organizing Secretary</p>
-                                </div> -->
                             </div>
                         </div>
                     </div>

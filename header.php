@@ -20,7 +20,8 @@
                 </div>
                 <div
                     class="col-sm-8 mt-4 mt-sm-0 d-flex justify-content-center justify-content-sm-end align-items-center">
-                    <a class="nav-link fw-bold rainbow_container" href="#" target="_blank">Register Now</a>
+                    <a class="nav-link fw-bold rainbow_container" href="https://rxregistrations.com/SEAASM/"
+                        target="_blank">Register Now</a>
                     <a class="nav-link fw-bold rainbow_container ms-4 mx-sm-4 me-lg-0" href="#" target="_blank">Abstract
                         Submission</a>
                     <button class="navbar-toggler d-none d-sm-block d-lg-none" type="button" data-bs-toggle="collapse"
