@@ -39,8 +39,7 @@
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
                                 <div class="d-flex justify-content-center">
-                                    <img src="https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-855.jpg?semt=ais_user"
-                                        class="mb-4" width="200" alt="">
+                                    <img src="imgs/Dr. Rajesh Swarnkar.jpg" width="200" class="mb-4 doctorImgs" alt="">
                                 </div>
                                 <h5 class="bluetext text-center fw-bold">Dr. Rajesh Swarnkar</h5>
                                 <p class="greentext text-center mb-0">(Nagpur)</p>
@@ -52,8 +51,7 @@
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
                                 <div class="d-flex justify-content-center">
-                                    <img src="https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-855.jpg?semt=ais_user"
-                                        class="mb-4" width="200" alt="">
+                                    <img src="imgs/Dr. Shivani Swami.jpg" class="mb-4 doctorImgs" width="200" alt="">
                                 </div>
                                 <h5 class="bluetext text-center fw-bold">Dr. Shivani Swami</h5>
                                 <p class="greentext text-center mb-0">(Jaipur)</p>
@@ -65,8 +63,7 @@
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
                                 <div class="d-flex justify-content-center">
-                                    <img src="https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-855.jpg?semt=ais_user"
-                                        class="mb-4" width="200" alt="">
+                                    <img src="imgs/Dr. Ravi Dosi.jpg" class="mb-4 doctorImgs" width="200" alt="">
                                 </div>
                                 <h5 class="bluetext text-center fw-bold">Dr. Ravi Dosi</h5>
                                 <p class="greentext text-center mb-0">(Indore)</p>

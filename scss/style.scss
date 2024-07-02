@@ -190,6 +190,12 @@ body {
     }
 }
 
+.doctorImgs {
+    outline: 3px solid $blue;
+    border-radius: 10px;
+    margin-top: 1rem;
+}
+
 @import "navbar";
 @import "contact";
 @import "aboutCity";

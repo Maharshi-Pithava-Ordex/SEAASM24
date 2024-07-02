@@ -70,7 +70,7 @@
                         class="img-fluid rounded" alt="">
                 </div>
             </div>
-            <div class="row text-white">
+            <div class="row text-white mt-4 mt-lg-0">
                 <div class="col-lg-6 d-flex justify-content-center align-items-center">
                     <img src="https://images.snapwi.re/8ac1/5c87e229aa3058c83a4a0e61.w800.jpg" class="img-fluid rounded"
                         alt="">
@@ -101,44 +101,61 @@
         <div class="row justify-content-center my-5 mx-2 pb-5">
             <h1 class="headingtext bluetext text-center fw-bold">Explore Indore & Nearby</h1>
             <ul class="honeycomb pb-5">
-                <li class="honeycomb-cell">
+                <li class="honeycomb-cell" id="nearby1" type="button" data-bs-toggle="modal"
+                    data-bs-target="#nearbyModal">
                     <img class="honeycomb-cell__image" src="imgs/nearby/nearby1.jpg">
                     <div class="honeycomb-cell__title">Rajwada Palace</div>
                 </li>
                 <li class="honeycomb-cell">
-                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby2.jpg">
+                    <img id="nearby2" class="honeycomb-cell__image" src="imgs/nearby/nearby2.jpg">
                     <div class="honeycomb-cell__title">Krishna Pura Chhatri</div>
                 </li>
                 <li class="honeycomb-cell">
-                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby3.jpg">
+                    <img id="nearby3" class="honeycomb-cell__image" src="imgs/nearby/nearby3.jpg">
                     <div class="honeycomb-cell__title">Chhatri of Malhar Row Holk</div>
                 </li>
                 <li class="honeycomb-cell">
-                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby4.jpg">
+                    <img id="nearby4" class="honeycomb-cell__image" src="imgs/nearby/nearby4.jpg">
                     <div class="honeycomb-cell__title">Gandhi Hall</div>
                 </li>
                 <li class="honeycomb-cell">
-                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby5.jpg">
+                    <img id="nearby5" class="honeycomb-cell__image" src="imgs/nearby/nearby5.jpg">
                     <div class="honeycomb-cell__title">Lal Bagh Palace</div>
                 </li>
                 <li class="honeycomb-cell">
-                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby6.jpg">
+                    <img id="nearby6" class="honeycomb-cell__image" src="imgs/nearby/nearby6.jpg">
                     <div class="honeycomb-cell__title fs-4">Mahakaleshwar Ujjain</div>
                 </li>
                 <li class="honeycomb-cell">
-                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby7.jpg">
+                    <img id="nearby7" class="honeycomb-cell__image" src="imgs/nearby/nearby7.jpg">
                     <div class="honeycomb-cell__title">Omkareshwar</div>
                 </li>
                 <li class="honeycomb-cell">
-                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby8.jpeg">
+                    <img id="nearby8" class="honeycomb-cell__image" src="imgs/nearby/nearby8.jpeg">
                     <div class="honeycomb-cell__title">Chhapan Dukan</div>
                 </li>
                 <li class="honeycomb-cell">
-                    <img class="honeycomb-cell__image" src="imgs/nearby/nearby9.png">
+                    <img id="nearby9" class="honeycomb-cell__image" src="imgs/nearby/nearby9.png">
                     <div class="honeycomb-cell__title">Sarafa Night Food Market</div>
                 </li>
                 <li class="honeycomb-cell honeycomb__placeholder"></li>
             </ul>
+        </div>
+    </div>
+
+    <!-- contact form modal -->
+    <div class="modal fade customcard" id="nearbyModal" tabindex="-1" aria-labelledby="nearby places modal"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title bluetext headingtext" id="nearbyModalLabel"></h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+
+                </div>
+            </div>
         </div>
     </div>
 
@@ -149,11 +166,11 @@
     <!-- Bootstrap js -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
-    </script>
+        </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
         integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous">
-    </script>
-    <!-- <script src="loader.js"></script> -->
+        </script>
+    <script src="aboutCity.js"></script>
 </body>
 
 </html>

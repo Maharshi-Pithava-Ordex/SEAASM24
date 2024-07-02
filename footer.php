@@ -19,7 +19,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 mt-5 mt-md-0">
             <h4 class="bluetext headingtext fw-bold">Useful links</h4>
             <ul class="ps-1" style="list-style-type: none;">
                 <li><a class="nav-link" href="index.php">Home</a></li>
