@@ -73,3 +73,6 @@
         </div>
     </div>
 </div>
+
+<!-- back to top -->
+<a class="btn btn-primary" id="backtotop" href="#topnav"><i class="fa-solid fa-up-long"></i></a>

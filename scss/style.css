@@ -172,6 +172,31 @@ body {
   margin-top: 1rem;
 }
 
+#backtotop {
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: unset;
+  display: grid;
+  place-items: center;
+  position: fixed;
+  bottom: 3%;
+  right: 3%;
+  z-index: 100;
+  animation: 1s bounce infinite cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+@keyframes bounce {
+  0% {
+    bottom: 3%;
+  }
+  50% {
+    bottom: 2.5%;
+  }
+  100% {
+    bottom: 3;
+  }
+}
 #centerNavLinks {
   background-color: #0e4f8a;
 }

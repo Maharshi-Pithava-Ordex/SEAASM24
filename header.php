@@ -1,5 +1,5 @@
 <?php ?>
-<div class="navbar navbar-expand-lg py-0">
+<div class="navbar navbar-expand-lg py-0" id="topnav">
     <div class="container-fluid customcard border-bottom rounded-0">
         <div class="container">
             <div class="row py-3">
@@ -23,7 +23,7 @@
                     <a class="nav-link fw-bold rainbow_container" href="https://rxregistrations.com/SEAASM/"
                         target="_blank">Register Now</a>
                     <a class="nav-link fw-bold rainbow_container ms-4 mx-sm-4 me-lg-0"
-                        href="https://rxregistrations.com/SEAASM/abstract/" target="_blank">Abstract
+                        href="abstractSubmission.php">Abstract
                         Submission</a>
                     <button class="navbar-toggler d-none d-sm-block d-lg-none" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

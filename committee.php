@@ -35,7 +35,7 @@
         <div class="row justify-content-center my-5">
             <div class="col-12">
                 <h1 class="bluetext fw-bold text-center mb-4 headingtext">Organizing Committee</h1>
-                <div class="row row-cols-1 row-cols-md-4 g-5 justify-content-center">
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4 g-lg-5 justify-content-center">
                     <div class="col">
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
@@ -80,7 +80,7 @@
         <div class="row justify-content-center my-5">
             <div class="col-12">
                 <h1 class="bluetext fw-bold text-center mb-4 headingtext">Executive Council</h1>
-                <div class="row row-cols-1 row-cols-md-4 g-5">
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4 g-lg-5">
                     <div class="col">
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
@@ -149,7 +149,7 @@
         <div class="row justify-content-center my-5">
             <div class="col-12">
                 <h1 class="bluetext fw-bold text-center mb-4 headingtext">Executive Member</h1>
-                <div class="row row-cols-1 row-cols-md-4 g-5">
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4 g-lg-5">
                     <div class="col">
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
@@ -288,7 +288,7 @@
         <div class="row justify-content-center my-5">
             <div class="col-12">
                 <h1 class="bluetext fw-bold text-center mb-4 headingtext">Founding Members</h1>
-                <div class="row row-cols-1 row-cols-md-4 g-5">
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4 g-lg-5">
                     <div class="col">
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
@@ -350,10 +350,10 @@
     <!-- Bootstrap js -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
-        </script>
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
         integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous">
-        </script>
+    </script>
     <!-- <script src="loader.js"></script> -->
 </body>
 
