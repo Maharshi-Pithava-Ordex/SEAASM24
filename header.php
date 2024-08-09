@@ -20,8 +20,8 @@
                 </div>
                 <div
                     class="col-sm-8 mt-4 mt-sm-0 d-flex justify-content-center justify-content-sm-end align-items-center">
-                    <a class="nav-link fw-bold rainbow_container" href="https://rxregistrations.com/SEAASM/"
-                        target="_blank">Register Now</a>
+                    <a class="nav-link fw-bold rainbow_container" href="registration.php">Register
+                        Now</a>
                     <a class="nav-link fw-bold rainbow_container ms-4 mx-sm-4 me-lg-0"
                         href="abstractSubmission.php">Abstract
                         Submission</a>
@@ -63,7 +63,7 @@
                     <a class="nav-link fw-bold" href="aboutCity.php">About Indore</a>
                 </li>
                 <li class="nav-item mx-lg-2">
-                    <a class="nav-link fw-bold" href="https://rxregistrations.com/SEAASM/" target="_blank">Register
+                    <a class="nav-link fw-bold" href="registration.php">Register
                         Now</a>
                 </li>
                 <li class="nav-item mx-lg-2">

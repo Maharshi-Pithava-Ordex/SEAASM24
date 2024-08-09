@@ -32,7 +32,7 @@
     <div class="container my-5">
         <div class="row">
             <div class="col-12">
-                <h1 class="headingtext bluetext text-center mb-4">Guidelines for Abstract Submission</h1>
+                <h1 class="headingtext bluetext text-center mb-4 fw-bold">Guidelines for Abstract Submission</h1>
             </div>
         </div>
         <div class="row">

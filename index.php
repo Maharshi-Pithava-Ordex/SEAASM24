@@ -139,169 +139,262 @@
         <div class="row justify-content-center my-5">
             <div class="col-12">
                 <h1 class="bluetext fw-bold text-center mb-3 headingtext">Registration Fees</h1>
-                <!-- large device table -->
-                <div class="row justify-content-center d-none d-md-block">
-                    <div class="col-12 border-0 p-3">
-                        <div class="table-responsive">
-                            <table class="table table-bordered border-primary text-nowrap mb-0">
-                                <thead>
-                                    <tr>
-                                        <th>CATEGORY</th>
-                                        <th>Early Bird Till 15<sup>th</sup> August, 2024</th>
-                                        <th>Late Bird Till 20<sup>th</sup> September, 2024</th>
-                                        <th>Spot</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Members</td>
-                                        <td>₹ 3000</td>
-                                        <td>₹ 4000</td>
-                                        <td>₹ 5000</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Non Members</td>
-                                        <td>₹ 4000</td>
-                                        <td>₹ 5000</td>
-                                        <td>₹ 6000</td>
-                                    </tr>
-                                    <tr>
-                                        <td>PG Students</td>
-                                        <td>₹ 2500</td>
-                                        <td>₹ 2500</td>
-                                        <td>₹ 2500</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Workshop (any one)</td>
-                                        <td>₹ 1000</td>
-                                        <td>₹ 1200</td>
-                                        <td>₹ 1500</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                <div class="row justify-content-center">
+                    <!-- seaasm2024 charges -->
+                    <div class="col-12">
+                        <!-- large device table -->
+                        <h3 class="headingtext bluetext text-center fw-bold">SEAASM2024 Charges</h3>
+                        <div class="row justify-content-center d-none d-md-block">
+                            <div class="col-12 border-0 p-3 pt-0">
+                                <div class="table-responsive">
+                                    <table class="table table-bordered border-primary text-nowrap mb-0">
+                                        <thead>
+                                            <tr>
+                                                <th>CATEGORY</th>
+                                                <th>Early Bird Till 15<sup>th</sup> August, 2024</th>
+                                                <th>Late Bird Till 20<sup>th</sup> September, 2024</th>
+                                                <th>Spot</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Members</td>
+                                                <td>₹ 3000</td>
+                                                <td>₹ 4000</td>
+                                                <td>₹ 5000</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Non Members</td>
+                                                <td>₹ 4000</td>
+                                                <td>₹ 5000</td>
+                                                <td>₹ 6000</td>
+                                            </tr>
+                                            <tr>
+                                                <td>PG Students</td>
+                                                <td>₹ 2500</td>
+                                                <td>₹ 2500</td>
+                                                <td>₹ 2500</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- small device table -->
+                        <div class="row justify-content-center d-block d-md-none px-3">
+                            <div class="col-12 border-0 p-3">
+                                <div class="mb-4">
+                                    <h4 class="fw-bold bluetext headingtext text-center">Members</h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered border-primary mb-0">
+                                            <tbody>
+                                                <tr>
+                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>₹ 3000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
+                                                    <td>₹ 4000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Spot</td>
+                                                    <td>₹ 5000</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                                <div class="mb-4">
+                                    <h4 class="fw-bold bluetext headingtext text-center">Non Members</h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered border-primary mb-0">
+                                            <tbody>
+                                                <tr>
+                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>₹ 4000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
+                                                    <td>₹ 5000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Spot</td>
+                                                    <td>₹ 6000</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                                <div class="mb-4">
+                                    <h4 class="fw-bold bluetext headingtext text-center">PG Students</h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered border-primary mb-0">
+                                            <tbody>
+                                                <tr>
+                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>₹ 2500</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
+                                                    <td>₹ 2500</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Spot</td>
+                                                    <td>₹ 2500</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- workshop charges -->
+                    <div class="col-12 mt-4">
+                        <!-- large device table -->
+                        <h3 class="headingtext bluetext text-center fw-bold">Workshop Charges</h3>
+                        <div class="row justify-content-center d-none d-md-block">
+                            <div class="col-12 border-0 p-3 pt-0">
+                                <div class="table-responsive">
+                                    <table class="table table-bordered border-primary text-nowrap mb-0">
+                                        <thead>
+                                            <tr>
+                                                <th>CATEGORY</th>
+                                                <th>Early Bird Till 15<sup>th</sup> August, 2024</th>
+                                                <th>Late Bird Till 20<sup>th</sup> September, 2024</th>
+                                                <th>Spot</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Non-Invasive Ventilation Workshop</td>
+                                                <td>₹ 1000</td>
+                                                <td>₹ 1200</td>
+                                                <td>₹ 1500</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Dental Sleep Medicine Workshop</td>
+                                                <td>₹ 1000</td>
+                                                <td>₹ 1200</td>
+                                                <td>₹ 1500</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Sleep Surgery Workshop</td>
+                                                <td>₹ 1000</td>
+                                                <td>₹ 1200</td>
+                                                <td>₹ 1500</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Polysomnography Workshop</td>
+                                                <td>₹ 1000</td>
+                                                <td>₹ 1200</td>
+                                                <td>₹ 1500</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- small device table -->
+                        <div class="row justify-content-center d-block d-md-none px-3">
+                            <div class="col-12 border-0 p-3">
+                                <div class="mb-4">
+                                    <h4 class="fw-bold bluetext headingtext text-center">Non-Invasive Ventilation
+                                        Workshop</h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered border-primary mb-0">
+                                            <tbody>
+                                                <tr>
+                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>₹ 1000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
+                                                    <td>₹ 1200</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Spot</td>
+                                                    <td>₹ 1500</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                                <div class="mb-4">
+                                    <h4 class="fw-bold bluetext headingtext text-center">Dental Sleep Medicine Workshop
+                                    </h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered border-primary mb-0">
+                                            <tbody>
+                                                <tr>
+                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>₹ 1000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
+                                                    <td>₹ 1200</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Spot</td>
+                                                    <td>₹ 1500</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                                <div class="mb-4">
+                                    <h4 class="fw-bold bluetext headingtext text-center">Sleep Surgery Workshop</h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered border-primary mb-0">
+                                            <tbody>
+                                                <tr>
+                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>₹ 1000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
+                                                    <td>₹ 1200</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Spot</td>
+                                                    <td>₹ 1500</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                                <div class="mb-4">
+                                    <h4 class="fw-bold bluetext headingtext text-center">Polysomnography Workshop</h4>
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered border-primary mb-0">
+                                            <tbody>
+                                                <tr>
+                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>₹ 1000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
+                                                    <td>₹ 1200</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Spot</td>
+                                                    <td>₹ 1500</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <!-- Registration button -->
                     <div class="col-12">
                         <div class="d-flex flex-column flex-sm-row justify-content-center align-items-center">
-                            <a href="https://rxregistrations.com/SEAASM/" target="_blank"
-                                class="btn btn-primary mx-3 px-5 py-4"><i
-                                    class="fa-solid fa-user-plus me-2"></i>Register Now</a>
+                            <a href="registration.php" class="btn btn-primary mx-3 px-5 py-4"><i
+                                    class="fa-solid fa-user-plus me-2"></i>Register
+                                Now</a>
                         </div>
-                    </div>
-                </div>
-                <!-- small device table -->
-                <div class="row justify-content-center d-block d-md-none px-3">
-                    <div class="col-12 border-0 p-3">
-                        <div class="mb-4">
-                            <h2 class="fw-bold bluetext headingtext text-center">Members</h2>
-                            <div class="table-responsive">
-                                <table class="table table-bordered border-primary mb-0">
-                                    <tbody>
-                                        <tr>
-                                            <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
-                                            <td>₹ 3000</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
-                                            <td>₹ 4000</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Spot</td>
-                                            <td>₹ 5000</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                        <div class="mb-4">
-                            <h2 class="fw-bold bluetext headingtext text-center">Non Members</h2>
-                            <div class="table-responsive">
-                                <table class="table table-bordered border-primary mb-0">
-                                    <tbody>
-                                        <tr>
-                                            <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
-                                            <td>₹ 4000</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
-                                            <td>₹ 5000</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Spot</td>
-                                            <td>₹ 6000</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                        <div class="mb-4">
-                            <h2 class="fw-bold bluetext headingtext text-center">PG Students</h2>
-                            <div class="table-responsive">
-                                <table class="table table-bordered border-primary mb-0">
-                                    <tbody>
-                                        <tr>
-                                            <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
-                                            <td>₹ 2500</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
-                                            <td>₹ 2500</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Spot</td>
-                                            <td>₹ 2500</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                        <div>
-                            <h2 class="fw-bold bluetext headingtext text-center">Workshop (any one)</h2>
-                            <div class="table-responsive">
-                                <table class="table table-bordered border-primary mb-0">
-                                    <tbody>
-                                        <tr>
-                                            <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
-                                            <td>₹ 1000</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
-                                            <td>₹ 1200</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Spot</td>
-                                            <td>₹ 1500</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                        <!-- <div class="mb-4">
-                            <h2 class="fw-bold redtext headingtext text-center">International Delegate</h2>
-                            <div class="table-responsive">
-                                <table class="table table-bordered border-primary mb-0">
-                                    <tbody>
-                                        <tr>
-                                            <td>Early Bird Till 15<sup>th</sup> May, 2024</td>
-                                            <td>$ 300</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Regular Till 30<sup>th</sup> June, 2024</td>
-                                            <td>$ 350</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Advanced Till 30<sup>th</sup> September, 2024</td>
-                                            <td>$ 370</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Spot Onwards 1<sup>st</sup> October, 2024</td>
-                                            <td>$ 400</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </div>
