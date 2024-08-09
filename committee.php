@@ -100,7 +100,7 @@
                                     <img src="imgs/committee/dr.pratibha-dogra.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Pratibha Dogra</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Pratibha Dogra</h5>
                                 <p class="lightbluetext text-center mb-0">Vice President (2023-2024)</p>
                             </div>
                         </div>
@@ -112,7 +112,7 @@
                                     <img src="imgs/committee/dr-shivani-swami.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Shivani Swami</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Shivani Swami</h5>
                                 <p class="lightbluetext text-center mb-0">Secretary (2023-2026)</p>
                             </div>
                         </div>
@@ -124,7 +124,7 @@
                                     <img src="imgs/committee/dr-shubhranshu.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Subhranshu</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Subhranshu</h5>
                                 <p class="lightbluetext text-center mb-0">Treasurer (2023-2026)</p>
                             </div>
                         </div>
@@ -136,7 +136,7 @@
                                     <img src="imgs/committee/dr-ravi-doshi.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Ravi Dosi</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Ravi Dosi</h5>
                                 <p class="lightbluetext text-center mb-0">Co-treasurer (2023-2026)</p>
                             </div>
                         </div>
@@ -157,7 +157,7 @@
                                     <img src="imgs/committee/dr-mahavir-m-modi.jpg" width="200" class="mb-4 doctorImgs"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Mahavir Modi</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Mahavir Modi</h5>
                                 <p class="lightbluetext text-center mb-0">India</p>
                             </div>
                         </div>
@@ -169,7 +169,7 @@
                                     <img src="imgs/committee/dr-gopal-raval.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Gopal Rawal</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Gopal Rawal</h5>
                                 <p class="lightbluetext text-center mb-0">India</p>
                             </div>
                         </div>
@@ -180,7 +180,7 @@
                                 <div class="d-flex justify-content-center">
                                     <img src="imgs/committee/Dr-P-Arjun.jpg" class="mb-4 doctorImgs" width="200" alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr P. Arjun</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. P. Arjun</h5>
                                 <p class="lightbluetext text-center mb-0">India</p>
                             </div>
                         </div>
@@ -192,7 +192,7 @@
                                     <img src="imgs/committee/dr-mayank-saxena.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Mayank Saxena</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Mayank Saxena</h5>
                                 <p class="lightbluetext text-center mb-0">India</p>
                             </div>
                         </div>
@@ -204,7 +204,7 @@
                                     <img src="imgs/committee/dr-milind-sovani.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Milind Sovani</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Milind Sovani</h5>
                                 <p class="lightbluetext text-center mb-0">UK</p>
                             </div>
                         </div>
@@ -216,7 +216,7 @@
                                     <img src="imgs/committee/dr-raja-dhar.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Raja Dhar</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Raja Dhar</h5>
                                 <p class="lightbluetext text-center mb-0">India</p>
                             </div>
                         </div>
@@ -228,7 +228,7 @@
                                     <img src="imgs/committee/dr-b-p-singh.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr BP Singh</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. B. P. Singh</h5>
                                 <p class="lightbluetext text-center mb-0">India</p>
                             </div>
                         </div>
@@ -240,7 +240,7 @@
                                     <img src="imgs/committee/dr-rajneesh-sharma.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Rajanish Sharma</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Rajanish Sharma</h5>
                                 <p class="lightbluetext text-center mb-0">India</p>
                             </div>
                         </div>
@@ -251,7 +251,7 @@
                                 <div class="d-flex justify-content-center">
                                     <img src="imgs/committee/dr-anoma.jpeg" class="mb-4 doctorImgs" width="200" alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Anoma</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Anoma</h5>
                                 <p class="lightbluetext text-center mb-0">Sri Lanka</p>
                             </div>
                         </div>
@@ -263,7 +263,7 @@
                                     <img src="imgs/committee/dr-milesh-sajapati.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Milesh Jung Sejapati</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Milesh Jung Sejapati</h5>
                                 <p class="lightbluetext text-center mb-0">Nepal</p>
                             </div>
                         </div>
@@ -275,7 +275,7 @@
                                     <img src="imgs/committee/dr-sanchit-wadhwa.jpg" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Sanchit Wadhwa</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Sanchit Wadhwa</h5>
                                 <p class="lightbluetext text-center mb-0">India</p>
                             </div>
                         </div>
@@ -296,7 +296,7 @@
                                     <img src="imgs/committee/dr-himanshu-garg.jpg" width="200" class="mb-4 doctorImgs"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Himanshu Garg</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Himanshu Garg</h5>
                                 <p class="lightbluetext text-center mb-0">Australia</p>
                             </div>
                         </div>
@@ -308,7 +308,7 @@
                                     <img src="imgs/committee/dr-david-cunnington.jpg" width="200"
                                         class="mb-4 doctorImgs" alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr David Cunnington</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. David Cunnington</h5>
                                 <p class="lightbluetext text-center mb-0">Australia</p>
                             </div>
                         </div>
@@ -332,7 +332,7 @@
                                     <img src="imgs/committee/dr.pratibha-dogra.jpg" width="200" class="mb-4 doctorImgs"
                                         alt="">
                                 </div>
-                                <h5 class="bluetext text-center fw-bold">Dr Pratibha Dogra</h5>
+                                <h5 class="bluetext text-center fw-bold">Dr. Pratibha Dogra</h5>
                                 <p class="lightbluetext text-center mb-0">India</p>
                             </div>
                         </div>

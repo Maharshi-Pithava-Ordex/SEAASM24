@@ -63,6 +63,14 @@
                     <a class="nav-link fw-bold" href="aboutCity.php">About Indore</a>
                 </li>
                 <li class="nav-item mx-lg-2">
+                    <a class="nav-link fw-bold" href="https://rxregistrations.com/SEAASM/" target="_blank">Register
+                        Now</a>
+                </li>
+                <li class="nav-item mx-lg-2">
+                    <a class="nav-link fw-bold" href="abstractSubmission.php">Abstract
+                        Submission</a>
+                </li>
+                <li class="nav-item mx-lg-2">
                     <a class="nav-link fw-bold" href="contactus.php">Contact Us</a>
                 </li>
             </ul>
