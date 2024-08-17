@@ -151,7 +151,7 @@
                                         <thead>
                                             <tr>
                                                 <th>CATEGORY</th>
-                                                <th>Early Bird Till 15<sup>th</sup> August, 2024</th>
+                                                <th>Early Bird Till 31<sup>st</sup> August, 2024</th>
                                                 <th>Late Bird Till 20<sup>th</sup> September, 2024</th>
                                                 <th>Spot</th>
                                             </tr>
@@ -189,7 +189,7 @@
                                         <table class="table table-bordered border-primary mb-0">
                                             <tbody>
                                                 <tr>
-                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>Early Bird Till 31<sup>st</sup> August, 2024</td>
                                                     <td>₹ 3000</td>
                                                 </tr>
                                                 <tr>
@@ -210,7 +210,7 @@
                                         <table class="table table-bordered border-primary mb-0">
                                             <tbody>
                                                 <tr>
-                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>Early Bird Till 31<sup>st</sup> August, 2024</td>
                                                     <td>₹ 4000</td>
                                                 </tr>
                                                 <tr>
@@ -231,7 +231,7 @@
                                         <table class="table table-bordered border-primary mb-0">
                                             <tbody>
                                                 <tr>
-                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>Early Bird Till 31<sup>st</sup> August, 2024</td>
                                                     <td>₹ 2500</td>
                                                 </tr>
                                                 <tr>
@@ -261,7 +261,7 @@
                                         <thead>
                                             <tr>
                                                 <th>CATEGORY</th>
-                                                <th>Early Bird Till 15<sup>th</sup> August, 2024</th>
+                                                <th>Early Bird Till 31<sup>st</sup> August, 2024</th>
                                                 <th>Late Bird Till 20<sup>th</sup> September, 2024</th>
                                                 <th>Spot</th>
                                             </tr>
@@ -275,9 +275,9 @@
                                             </tr>
                                             <tr>
                                                 <td>Dental Sleep Medicine Workshop</td>
+                                                <td>₹ 500</td>
+                                                <td>₹ 700</td>
                                                 <td>₹ 1000</td>
-                                                <td>₹ 1200</td>
-                                                <td>₹ 1500</td>
                                             </tr>
                                             <tr>
                                                 <td>Sleep Surgery Workshop</td>
@@ -306,7 +306,7 @@
                                         <table class="table table-bordered border-primary mb-0">
                                             <tbody>
                                                 <tr>
-                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>Early Bird Till 31<sup>st</sup> August, 2024</td>
                                                     <td>₹ 1000</td>
                                                 </tr>
                                                 <tr>
@@ -328,16 +328,16 @@
                                         <table class="table table-bordered border-primary mb-0">
                                             <tbody>
                                                 <tr>
-                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
-                                                    <td>₹ 1000</td>
+                                                    <td>Early Bird Till 31<sup>st</sup> August, 2024</td>
+                                                    <td>₹ 500</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Late Bird Till 20<sup>th</sup> September, 2024</td>
-                                                    <td>₹ 1200</td>
+                                                    <td>₹ 700</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Spot</td>
-                                                    <td>₹ 1500</td>
+                                                    <td>₹ 1000</td>
                                                 </tr>
                                             </tbody>
                                         </table>
@@ -349,7 +349,7 @@
                                         <table class="table table-bordered border-primary mb-0">
                                             <tbody>
                                                 <tr>
-                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>Early Bird Till 31<sup>st</sup> August, 2024</td>
                                                     <td>₹ 1000</td>
                                                 </tr>
                                                 <tr>
@@ -370,7 +370,7 @@
                                         <table class="table table-bordered border-primary mb-0">
                                             <tbody>
                                                 <tr>
-                                                    <td>Early Bird Till 15<sup>th</sup> August, 2024</td>
+                                                    <td>Early Bird Till 31<sup>st</sup> August, 2024</td>
                                                     <td>₹ 1000</td>
                                                 </tr>
                                                 <tr>

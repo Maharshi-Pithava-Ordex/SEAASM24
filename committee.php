@@ -166,7 +166,7 @@
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
                                 <div class="d-flex justify-content-center">
-                                    <img src="imgs/committee/dr-gopal-raval.jpg" class="mb-4 doctorImgs" width="200"
+                                    <img src="imgs/committee/Dr. Gopal Raval.png" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
                                 <h5 class="bluetext text-center fw-bold">Dr. Gopal Rawal</h5>
@@ -189,7 +189,7 @@
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
                                 <div class="d-flex justify-content-center">
-                                    <img src="imgs/committee/dr-mayank-saxena.jpg" class="mb-4 doctorImgs" width="200"
+                                    <img src="imgs/committee/Dr. Mayank Saxena.png" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
                                 <h5 class="bluetext text-center fw-bold">Dr. Mayank Saxena</h5>
@@ -201,7 +201,7 @@
                         <div class="card h-100 doctorimg border-0 customshadow customcard">
                             <div class="card-body">
                                 <div class="d-flex justify-content-center">
-                                    <img src="imgs/committee/dr-milind-sovani.jpg" class="mb-4 doctorImgs" width="200"
+                                    <img src="imgs/committee/Dr. Milind Sovani.png" class="mb-4 doctorImgs" width="200"
                                         alt="">
                                 </div>
                                 <h5 class="bluetext text-center fw-bold">Dr. Milind Sovani</h5>
