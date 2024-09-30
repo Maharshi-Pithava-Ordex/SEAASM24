@@ -398,4 +398,7 @@ label::after {
   .honeycomb__placeholder:nth-child(7n+11) {
     display: block;
   }
+}
+.pdfiframe {
+  height: 100vh;
 }/*# sourceMappingURL=style.css.map */

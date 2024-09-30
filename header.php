@@ -60,6 +60,9 @@
                     <a class="nav-link fw-bold" href="committee.php">Organizing Committee</a>
                 </li>
                 <li class="nav-item mx-lg-2">
+                    <a class="nav-link fw-bold" href="scientfic.php">Scientific Program</a>
+                </li>
+                <li class="nav-item mx-lg-2">
                     <a class="nav-link fw-bold" href="aboutCity.php">About Indore</a>
                 </li>
                 <li class="nav-item mx-lg-2">
