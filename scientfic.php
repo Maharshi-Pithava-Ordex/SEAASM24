@@ -31,9 +31,18 @@
         </div>
     </div>
 
-    <div class="container-fluid">
+    <div class="container d-none d-md-block">
+        <div class="row my-5">
+            <iframe src="asset/SEAASM24_Scientific_Agenda.pdf" class="pdfiframe" frameborder="0"></iframe>
+        </div>
+    </div>
+
+    <div class="container-fluid d-block d-md-none">
         <div class="row justify-content-center my-5">
             <div id="pdf-container" class="pdfiframe"></div>
+            <a href="asset/SEAASM24_Scientific_Agenda.pdf" class="btn btn-primary px-5 py-3 mt-4 d-block d-md-none"
+                download>Download
+                Agenda</a>
         </div>
     </div>
     <!-- footer -->
@@ -41,7 +50,7 @@
         include 'footer.php';
     ?>
     <script>
-        WebViewer({
+    WebViewer({
             path: 'PDFJSExpress/lib/', // path to the PDF.js Express'lib' folder on your server
             licenseKey: 'YZLEf4pqc2rPVSbSci9V',
             initialDoc: 'asset/SEAASM24_Scientific_Agenda.pdf',
@@ -65,28 +74,23 @@
                 'zoomInButton'
             ]
         }, document.getElementById('pdf-container'))
-            .then(instance => {
-                const docViewer = instance.docViewer;
-                const annotManager = instance.annotManager;
+        .then(instance => {
+            const docViewer = instance.docViewer;
+            const annotManager = instance.annotManager;
 
-                docViewer.on('documentLoaded', () => {
+            docViewer.on('documentLoaded', () => {
 
-                });
             });
+        });
     </script>
-
-    <!-- footer -->
-    <?php 
-        include 'footer.php';
-    ?>
 
     <!-- Bootstrap js -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
-        </script>
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
         integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous">
-        </script>
+    </script>
     <!-- <script src="loader.js"></script> -->
 </body>
 
